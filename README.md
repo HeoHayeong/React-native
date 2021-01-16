@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
 - px 안됨
 - 모든 flex box의 디폴트는 flexDirection이 cloumn이다.
 
-## 03. flex 레이아웃 핸들링 방법 
+### 03. flex 레이아웃 핸들링 방법 
 ___
 ___
 
