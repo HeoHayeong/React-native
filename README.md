@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
 
 ## 03. flex 레이아웃 핸들링 방법 
 ___
-
+___
 
  > app.json : expo가 읽게 될 파일
 
